@@ -13,3 +13,5 @@ Obfuscator for C# applications
 ## Before and After Obfuscation:
 <img src="https://github.com/Zenixas/ZenFuscator/blob/main/Images/before.png?raw=true">
 <img src="https://github.com/Zenixas/ZenFuscator/blob/main/Images/after.png?raw=true">
+
+
